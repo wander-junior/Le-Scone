@@ -211,4 +211,10 @@ table {
   clear: both;
 }
 
+body {
+  background: #edece4;
+  border: 10px solid #cbc6b9;
+  color: #2a2426;
+}
+
 /*# sourceMappingURL=style.css.map */
